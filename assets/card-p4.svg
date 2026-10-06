@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 84" width="100%"><defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0"><stop offset="0" stop-color="#b47be0"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient><linearGradient id="s"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs><clipPath id="c"><rect x="0" y="0" width="1000" height="84" rx="16"/></clipPath>
+<rect x="1" y="1" width="998" height="82" rx="16" fill="#121936" stroke="url(#g)" stroke-opacity=".4"/>
+<g clip-path="url(#c)"><rect x="0" y="0" width="6" height="84" fill="url(#g)"><animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/></rect>
+<rect y="0" width="180" height="84" fill="url(#s)" transform="skewX(-20)"><animate attributeName="x" values="-300;1100" dur="5s" begin="4.2s" repeatCount="indefinite"/></rect></g>
+<text x="30" y="56" font-size="30" font-weight="800" fill="url(#g)" opacity=".55" font-family="'Segoe UI',Helvetica,Arial,sans-serif">04</text><text x="96" y="54" font-size="30" font-family="'Segoe UI',Helvetica,Arial,sans-serif">📣</text>
+<text x="146" y="40" font-size="21" font-weight="700" fill="#e9edf9" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Marketing automation</text>
+<text x="146" y="64" font-size="14" fill="#2dd4bf" font-family="'Segoe UI',Helvetica,Arial,sans-serif">6 campaigns across 600+ contacts</text>
+<circle cx="960" cy="42" r="5" fill="url(#g)"><animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/></circle></svg>

@@ -10,12 +10,26 @@
   <a href="https://linkedin.com/in/ahmed-raza-193686146"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center"><b><a href="#about">About</a> · <a href="#services">Services</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#skills">Skills</a> · <a href="#education">Education</a> · <a href="#contact">Contact</a></b></p>
+<br>
+
+<p align="center">
+<a href="#about"><img src="assets/nav-about.svg" alt="About" height="40"></a> <a href="#services"><img src="assets/nav-services.svg" alt="Services" height="40"></a> <a href="#experience"><img src="assets/nav-experience.svg" alt="Experience" height="40"></a> <a href="#projects"><img src="assets/nav-projects.svg" alt="Projects" height="40"></a> <a href="#skills"><img src="assets/nav-skills.svg" alt="Skills" height="40"></a> <a href="#education"><img src="assets/nav-education.svg" alt="Education" height="40"></a> <a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" height="40"></a>
+</p>
+
+<br>
 
 <p align="center"><img src="assets/stats.svg" alt="1,100+ orders, 12+ projects, 600+ contacts, 80+ email templates" width="100%"></p>
 
+<br>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<br>
+
 <a id="about"></a>
 <p align="center"><img src="assets/h-about.svg" alt="About" width="100%"></p>
+
+<br>
 
 I'm an **Odoo technical developer** who turns messy business processes into clean, automated systems. I own projects end to end: understanding the requirement, building custom modules and integrations, deploying, and supporting the live system.
 
@@ -25,97 +39,109 @@ I like solutions that fit the problem: native configuration when it's enough, a 
 
 📍 Karachi, Pakistan &nbsp;·&nbsp; 🗣️ Urdu (native), English (professional) &nbsp;·&nbsp; 💼 Odoo Technical Developer at Bundo Tech
 
+<br>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<br>
+
 <a id="services"></a>
 <p align="center"><img src="assets/h-services.svg" alt="Odoo ERP services" width="100%"></p>
 
+<br>
+
 <p align="center"><img src="assets/services.svg" alt="Integration, Implementation, Development, Deployment, Hosting, Support, Training, Consulting" width="100%"></p>
+
+<br>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<br>
 
 <a id="experience"></a>
 <p align="center"><img src="assets/h-experience.svg" alt="Experience" width="100%"></p>
 
-### 🟣 Odoo Technical Developer · Bundo Tech
-**Feb 2026 – Present** · Full-time · Karachi, Pakistan (on-site)
+<br>
+
+<p align="center"><img src="assets/card-job.svg" alt="Odoo Technical Developer, Bundo Tech" width="100%"></p>
 
 - Started with a month of structured Odoo training, then moved into live client implementation work
 - Own client projects end to end: module development and customization, PostgreSQL administration, third-party integrations, and debugging on live production instances
 - Work in Git within the development team across all client projects
 
-<details open>
-<summary><b>🛒 E-commerce platform</b> · 3+ months</summary>
 <br>
+
+<p align="center"><img src="assets/card-ecom.svg" alt="E-commerce platform" width="100%"></p>
 
 - Built a fully customized Odoo store from scratch that now processes **1,100+ orders**
 - Integrated a secure Bitcoin payment gateway with automated order confirmation
 - Built an affiliate and referral program: **10+ affiliates** onboarded, automated commission payouts
 - Deployed **6 marketing automation campaigns** across a 600+ contact database
-</details>
 
-<details open>
-<summary><b>🤖 Robotics e-commerce</b> · current client</summary>
 <br>
+
+<p align="center"><img src="assets/card-robo.svg" alt="Robotics e-commerce" width="100%"></p>
 
 - Building and customizing website product pages for a grass-cutting robotics company
 - Configuring Helpdesk for customer support ticketing and notification workflows, connected to Repair orders
-</details>
 
-<details>
-<summary><b>🧩 Other client work</b></summary>
 <br>
+
+<p align="center"><img src="assets/card-other.svg" alt="Other client work" width="100%"></p>
 
 - Planning customization and an employee attendance portal
 - Accounting customization: payment reconciliation and landed costs; QuickBooks sync
 - CRM pipeline automation, lead-to-project workflow, WordPress plugin, React Native apps, website builds
-</details>
+
+<br>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<br>
 
 <a id="projects"></a>
 <p align="center"><img src="assets/h-projects.svg" alt="Selected work" width="100%"></p>
 
-<p align="center"><i>Most work is for private clients, so names and code are withheld. Details are available on request. Click a project to expand it.</i></p>
-
-<details>
-<summary><b>🛒 E-commerce platform (Dutch and French)</b> &nbsp;·&nbsp; 1,100+ orders in production</summary>
 <br>
 
-Complete Odoo websites built from scratch for two companies.
+<p align="center"><i>Most work is for private clients, so names and code are withheld. Details are available on request.</i></p>
 
+<br>
+
+<p align="center"><img src="assets/card-p1.svg" alt="E-commerce platform" width="100%"></p>
+
+- Complete Odoo websites built from scratch for two companies, with full Dutch and French translations
 - Home, category and product pages with hero products, best sellers, flash sales, brand filters, quantity pricing and detailed specifications
 - Fast one-page checkout customized to client requirements, with exact checkout-time capture for campaigns
-- Full Dutch and French translations
-- Technical SEO: custom meta fields, canonical tags and schema markup
-- Google Tag Manager tracking of page views and button clicks
-- Channable product feed module for marketing
-- 80+ email templates customized across base and custom modules
-</details>
+- Technical SEO (custom meta fields, canonical tags, schema markup) and Google Tag Manager tracking
+- Channable product feed module and 80+ customized email templates
 
-<details>
-<summary><b>💳 Payment gateway integrations</b> &nbsp;·&nbsp; Bitcoin, Rampex, PayLio, Klarna</summary>
 <br>
+
+<p align="center"><img src="assets/card-p2.svg" alt="Payment gateway integrations" width="100%"></p>
 
 - BTCPay Server setup for Bitcoin and multiple coins
 - Custom payment provider modules for **Rampex** and **PayLio** with API and webhook integrations that sync orders and payments
 - Klarna payment method setup
-</details>
 
-<details>
-<summary><b>🤝 Affiliate and referral programs</b> &nbsp;·&nbsp; 10+ affiliates, automated payouts</summary>
 <br>
+
+<p align="center"><img src="assets/card-p3.svg" alt="Affiliate and referral programs" width="100%"></p>
 
 - People apply, get approved, and receive an auto-generated password and email
 - Portal pages where referrers track their own statistics
 - Affiliate dashboard to generate product feeds and special promotion URLs
-</details>
 
-<details>
-<summary><b>📣 Marketing automation</b> &nbsp;·&nbsp; 6 campaigns, 600+ contacts</summary>
 <br>
+
+<p align="center"><img src="assets/card-p4.svg" alt="Marketing automation" width="100%"></p>
 
 - Campaigns built with Marketing Automation and Email Marketing
 - Custom module showing detailed per-campaign statistics
-</details>
 
-<details>
-<summary><b>📈 Fully automated CRM pipeline (event studio)</b></summary>
 <br>
+
+<p align="center"><img src="assets/card-p5.svg" alt="Automated CRM pipeline" width="100%"></p>
 
 ```mermaid
 flowchart LR
@@ -136,51 +162,55 @@ flowchart LR
 - A new lead creates a call task and a calendar block with the request details
 - Unreached customers automatically get the right email and a new task on a business-day schedule
 - Accepted quotes cancel pending follow-ups; won deals create a deposit invoice and update the calendar
-</details>
 
-<details>
-<summary><b>📁 Lead-to-project workflow (consulting firm)</b></summary>
 <br>
+
+<p align="center"><img src="assets/card-p6.svg" alt="Lead-to-project workflow" width="100%"></p>
 
 - Custom NDA and proposal stages with document attachment fields
 - Documents folder created automatically for every lead
 - Files sent through the chatter, then forwarded to the linked Project
 - Purchase orders raised from projects; lead activities appear in the calendar
-</details>
 
-<details>
-<summary><b>🔧 Repair and support flow (robotics company)</b></summary>
 <br>
+
+<p align="center"><img src="assets/card-p7.svg" alt="Repair and support flow" width="100%"></p>
 
 - Product catalog across 20+ website pages built with the Odoo editor
 - Custom flow connecting **Website → Helpdesk → Repair**
 - Sales notifications when an order is confirmed
-</details>
 
-<details>
-<summary><b>📱 Mobile apps (React Native)</b></summary>
 <br>
+
+<p align="center"><img src="assets/card-p8.svg" alt="Mobile apps" width="100%"></p>
 
 - Customer-support ticketing app for complaints and service requests
 - Beach-hut booking app covering booking, slot holding and payments
-</details>
 
-<details>
-<summary><b>➕ More builds</b></summary>
 <br>
 
+<p align="center"><img src="assets/card-p9.svg" alt="More builds" width="100%"></p>
+
 - Planning with auto-generated slots and an attendance check-in portal
-- Accounting: payment reconciliation and landed costs
-- QuickBooks sync of orders and payments
+- Accounting: payment reconciliation and landed costs; QuickBooks sync of orders and payments
 - Custom PHP plugin syncing Odoo products to WordPress
 - Script extracting data from CVs and certificates into Odoo Contacts
 - Websites built with the drag-and-drop editor and from Figma designs
-</details>
+
+<br>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<br>
 
 <a id="skills"></a>
 <p align="center"><img src="assets/h-skills.svg" alt="Tools I work with" width="100%"></p>
 
+<br>
+
 <p align="center"><img src="assets/marquee.svg" alt="Odoo, Python, PostgreSQL, JavaScript, React Native, PHP, REST API" width="100%"></p>
+
+<br>
 
 | | |
 |---|---|
@@ -204,15 +234,31 @@ flowchart LR
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+<br>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<br>
+
 <a id="education"></a>
-<p align="center"><img src="assets/h-education.svg" alt="Education" width="100%"></p>
+<p align="center"><img src="assets/h-education.svg" alt="Background" width="100%"></p>
+
+<br>
 
 - 🎓 **BS Computer Science**, University of Karachi, Pakistan · Dec 2021 – Dec 2025
 - 📘 **HSC, Pre-Engineering**, Govt. Degree College SRE Majeed, Karachi · Sept 2019 – July 2021
 - 🗣️ **Languages:** Urdu (native), English (professional working proficiency)
 
+<br>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<br>
+
 <a id="contact"></a>
 <p align="center"><img src="assets/h-contact.svg" alt="Let's build something together" width="100%"></p>
+
+<br>
 
 <p align="center">I'm open to <b>full-time Odoo developer roles</b> and <b>freelance projects</b>: integrations, custom modules, websites, automation, deployment and support.</p>
 
@@ -220,5 +266,7 @@ flowchart LR
   <a href="mailto:ar.razaahmed22@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
   <a href="https://linkedin.com/in/ahmed-raza-193686146"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+<br>
 
 <p align="center"><img src="assets/footer.svg" alt="" width="100%"></p>
