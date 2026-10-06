@@ -143,21 +143,7 @@ I like solutions that fit the problem: native configuration when it's enough, a 
 
 <p align="center"><img src="assets/card-p5.svg" alt="Automated CRM pipeline" width="100%"></p>
 
-```mermaid
-flowchart LR
-    A[Lead created] --> B[1st contact]
-    B -->|reached| C[Qualified]
-    B -->|not reached| D[Email + 2nd contact]
-    D -->|reached| C
-    D -->|not reached| E[Email + 3rd contact]
-    E -->|reached| C
-    E -->|not reached| X[Lost: Not reached]
-    C --> F[Quote sent]
-    F --> G[Follow-ups 1 to 3]
-    G -->|accepted| H[Won]
-    G -->|no response| Y[Lost: No response]
-    H --> I[50% deposit invoice]
-```
+<p align="center"><img src="assets/crm-pipeline.svg" alt="CRM pipeline: lead, three contact attempts, qualified, quote, follow-ups, won or lost, deposit invoice" width="100%"></p>
 
 - A new lead creates a call task and a calendar block with the request details
 - Unreached customers automatically get the right email and a new task on a business-day schedule
@@ -212,27 +198,7 @@ flowchart LR
 
 <br>
 
-| | |
-|---|---|
-| **Odoo** | Website · eCommerce · Sales · CRM · Planning · Helpdesk · Repair · Accounting · Contacts · Documents · Project · Purchase · Marketing Automation · Email Marketing · Affiliate · Payments · Custom modules · ORM · QWeb reports |
-| **Programming** | Python · JavaScript · PHP · React Native · C/C++ · Java · SQL |
-| **Integrations** | REST APIs · Webhooks · BTCPay Server · Klarna · QuickBooks · WordPress · Google Tag Manager · Channable |
-| **Data** | PostgreSQL · MySQL |
-| **Environments** | Odoo Online · Odoo.sh · On-premise · Local · Ngrok tunnels for webhook testing |
-| **Tools** | Git · GitHub · VS Code · Figma-to-web |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+<p align="center"><img src="assets/skills.svg" alt="Skills: Odoo modules, programming languages, integrations, data, environments and tools" width="100%"></p>
 
 <br>
 
@@ -256,17 +222,12 @@ flowchart LR
 <br>
 
 <a id="contact"></a>
-<p align="center"><img src="assets/h-contact.svg" alt="Let's build something together" width="100%"></p>
-
-<br>
-
-<p align="center">I'm open to <b>full-time Odoo developer roles</b> and <b>freelance projects</b>: integrations, custom modules, websites, automation, deployment and support.</p>
+<p align="center"><img src="assets/contact.svg" alt="Let's build something together" width="100%"></p>
 
 <p align="center">
-  <a href="mailto:ar.razaahmed22@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
-  <a href="https://linkedin.com/in/ahmed-raza-193686146"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ar.razaahmed22@gmail.com"><img src="assets/btn-email.svg" alt="Email me" width="260" height="60"></a>
+  <a href="https://linkedin.com/in/ahmed-raza-193686146"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="260" height="60"></a>
+  <a href="https://github.com/araza2003"><img src="assets/btn-github.svg" alt="GitHub" width="260" height="60"></a>
 </p>
-
-<br>
 
 <p align="center"><img src="assets/footer.svg" alt="" width="100%"></p>

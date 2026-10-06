@@ -4,5 +4,5 @@
 <rect y="0" width="180" height="84" fill="url(#s)" transform="skewX(-20)"><animate attributeName="x" values="-300;1100" dur="5s" begin="0.6s" repeatCount="indefinite"/></rect></g>
 <text x="70" y="54" font-size="30" font-family="'Segoe UI',Helvetica,Arial,sans-serif">🛒</text>
 <text x="120" y="40" font-size="21" font-weight="700" fill="#e9edf9" font-family="'Segoe UI',Helvetica,Arial,sans-serif">E-commerce platform</text>
-<text x="120" y="64" font-size="14" fill="#2dd4bf" font-family="'Segoe UI',Helvetica,Arial,sans-serif">3+ months · 1,100+ orders in production</text>
+<text x="120" y="64" font-size="14" fill="#2dd4bf" font-family="'Segoe UI',Helvetica,Arial,sans-serif">3+ months · 2,300+ orders in production</text>
 <circle cx="960" cy="42" r="5" fill="url(#g)"><animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/></circle></svg>
