@@ -73,7 +73,7 @@ I like solutions that fit the problem: native configuration when it's enough, a 
 
 <p align="center"><img src="assets/card-ecom.svg" alt="E-commerce platform" width="100%"></p>
 
-- Built a fully customized Odoo store from scratch that now processes **1,100+ orders**
+- Built a fully customized Odoo store from scratch that now processes **2,300+ orders**
 - Integrated a secure Bitcoin payment gateway with automated order confirmation
 - Built an affiliate and referral program: **10+ affiliates** onboarded, automated commission payouts
 - Deployed **6 marketing automation campaigns** across a 600+ contact database
