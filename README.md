@@ -18,7 +18,7 @@
 
 <br>
 
-<p align="center"><img src="assets/stats.svg" alt="1,100+ orders, 12+ projects, 600+ contacts, 80+ email templates" width="100%"></p>
+<p align="center"><img src="assets/stats.svg" alt="2,300+ orders, 12+ projects, 600+ contacts, 80+ email templates" width="100%"></p>
 
 <br>
 
